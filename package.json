@@ -1,0 +1,17 @@
+{
+  "group": "br.com.azi",
+  "name": "treina-docs",
+  "private": true,
+  "version": "1.0.0",
+  "description": "treina-docs",
+  "directories": {
+    "dist": "dist",
+    "src": "src",
+    "test": "test"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-markdown-pdf": "^3.0.0",
+    "load-grunt-tasks": "^3.4.1"
+  }
+}
